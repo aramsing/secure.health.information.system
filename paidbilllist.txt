@@ -1,0 +1,1 @@
+Date, Visit Type, Amount, Paid
